@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/4Rjee/lab04.svg?branch=master)](https://travis-ci.com/4Rjee/lab04)
 https://travis-ci.com/4Rjee/lab04.svg?branch=master
 ## Laboratory work II
 
