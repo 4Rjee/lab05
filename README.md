@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.com/4Rjee/lab04.svg?branch=master)](https://travis-ci.com/4Rjee/lab04)
-https://travis-ci.com/4Rjee/lab04.svg?branch=master
+
 ## Laboratory work II
 
 <a href="https://yandex.ru/efir/?stream_id=vMPJl0nEKr_0"><img src="https://raw.githubusercontent.com/tp-labs/lab02/master/previe.." width="640"/></a>
